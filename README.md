@@ -23,5 +23,4 @@ Eu sou uma pessoa Desenvolvedora Full-stack com foco em front-end
 
 
 
-
-![Jean Matos GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmts&show_icons=true&theme=dracula)
+![Snake animation](https://github.com/jeanmts/jeans/blob/output/github-contribution-grid-snake.svg)
