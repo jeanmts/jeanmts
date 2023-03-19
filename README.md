@@ -22,4 +22,4 @@ Eu sou uma pessoa Desenvolvedora Full-stack com foco em front-end
 
 
 
-![Snake animation](https://github.com/jeanmts/jeanmts/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/jeanmts/jeanmts/blob/output/github-contribution-grid-snake.svg)
