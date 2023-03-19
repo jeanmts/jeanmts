@@ -14,8 +14,6 @@ Desenvolvedor Full-stack
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT" ></img>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE.JS" ></img>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="STYLED-COMPONENTS" ></img>
-<img src="" alt="" ></img>
-<img src="" alt="" ></img>
 </div><br>
 
 
