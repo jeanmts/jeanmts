@@ -16,7 +16,6 @@ Eu sou uma pessoa Desenvolvedora Full-stack com foco em front-end
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="STYLED-COMPONENTS" ></img>
 <img src="" alt="" ></img>
 <img src="" alt="" ></img>
-
 </div>
 
 
