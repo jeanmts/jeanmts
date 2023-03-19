@@ -18,6 +18,5 @@ Desenvolvedor web Full-stack
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmts&layout=compact)](https://github.com/jeanmts/github-readme-stats)
 
 ![Snake animation](https://github.com/jeanmts/jeanmts/blob/output/github-contribution-grid-snake.svg)
