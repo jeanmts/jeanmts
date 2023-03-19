@@ -4,7 +4,7 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jeanmatos.netlify.app/)
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa Desenvolvedora Full-stack com foco em front-end
+Desenvolvedor Full-stack 
 
 ## 🛠 Habilidades
 <div>
