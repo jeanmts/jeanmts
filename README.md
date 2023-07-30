@@ -16,4 +16,4 @@
 
 
 
-![Snake animation](https://github.com/jeanmts/jeanmts/blob/output/github-contribution-grid-snake.svg)
+
